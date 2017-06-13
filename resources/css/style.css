@@ -130,7 +130,7 @@ header {
 .event {
   display: flex;
   flex-direction: row;
-  border-left: 1px solid #ffffff;
+  border-left: 1px solid #716d6d;
   padding: 16px;
 }
 
