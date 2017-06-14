@@ -127,6 +127,8 @@ header {
 .text-container a {
   color: blue;
   margin-top: 25px;
+  width: 55%;
+  font-size: 0.95rem;
 }
 
 .event {
