@@ -64,11 +64,13 @@ header {
 .banner-image {
   width: 60%;
   margin: 32px 24px;
-  max-height: 636px;
+
 }
 
 .banner-image img{
   width: 100%;
+  max-width: 860px;
+  max-height: 636px;
 }
 
 .quote {
