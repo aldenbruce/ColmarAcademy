@@ -134,6 +134,8 @@ header {
   flex-direction: row;
   border-left: 1px solid #716d6d;
   padding: 16px;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .event:hover {
@@ -142,7 +144,7 @@ header {
 
 .event img {
   width: 35%;
-  max-height: 150px;
+  height: auto;
   margin: 0 16px;
 }
 
